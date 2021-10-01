@@ -1,0 +1,1 @@
+# How-To-Encrypt-and-Decrypt-String-Using-OpenSSL-PHP-native-
